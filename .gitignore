@@ -20,3 +20,5 @@ dashboard_files/
 *.log
 *.tmp
 *.bak
+.RData
+.Rhistory
