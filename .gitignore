@@ -1,0 +1,22 @@
+# Arquivos temporários do R
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+
+# Projetos do RStudio
+*.Rproj
+
+# Saídas do dashboard
+dashboard_files/
+*.html
+
+# Dados brutos e arquivos grandes
+*.zip
+*.csv
+*.xlsx
+
+# Logs e caches
+*.log
+*.tmp
+*.bak
